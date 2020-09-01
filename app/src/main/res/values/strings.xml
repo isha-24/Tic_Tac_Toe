@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="title">WELCOME TO THE GAME</string>
+    <string name="status"> </string>
+    <string name="win_Status"> </string>
+    <string name="image">Cross or Zero</string>
+    <string name="line">red</string>
+    <string name="grid">Grid</string>
+    <string name="restart">RESET</string>
+    <string name="replay">REPLAY</string>
+    <string name="exit">EXIT</string>
+</resources>
